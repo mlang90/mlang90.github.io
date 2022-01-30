@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Coding Portfolio"
 permalink: /Portfolio/
+---
 
 # Coding portfolio
 ### Project 1 - iOS calculator
