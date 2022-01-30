@@ -1,3 +1,7 @@
+layout: page
+title: "Coding Portfolio"
+permalink: /Portfolio/
+
 # Coding portfolio
 ### Project 1 - iOS calculator
 - Learning about stacks and constraints
